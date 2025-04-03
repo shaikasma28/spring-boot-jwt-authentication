@@ -33,7 +33,7 @@ spring.datasource.username=root
 spring.datasource.password=yourpassword
 
 3.Update the project and run the project. This will be running on port http://localhost:8081.
-4.Frontend part will be running at http://127.0.0.1:60685/index.html
+4.Frontend part will be running at http://127.0.0.1:5500/index.html
 5.Register a New User
 Open http://127.0.0.1:5500/register.html
 
@@ -42,7 +42,7 @@ Enter a Username and Password.
 Click Register.
 
 Login with JWT Authentication
-Open http://127.0.0.1:60685/index.html
+Open http://127.0.0.1:5500/index.html
 Enter your Username and Password.
 Click Login.
 
